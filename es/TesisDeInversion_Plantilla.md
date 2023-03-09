@@ -10,6 +10,8 @@ Al reflejar opiniones teóricas, su contenido es meramente informativo y por tan
 
 # Análisis fundamental del negocio
 
+# Estimación del crecimiento
+
 # Sector empresarial
 
 # Insiders
@@ -18,9 +20,11 @@ Al reflejar opiniones teóricas, su contenido es meramente informativo y por tan
 
 # Dilución
 
+# Completitud con el perfil de inversión
+
 # Valoración
 
-# Perfil de Inversión
+# Análisis técnico
 
 # Conclusiones
 
