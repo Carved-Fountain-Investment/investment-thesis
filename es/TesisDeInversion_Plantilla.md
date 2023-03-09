@@ -20,6 +20,8 @@ Al reflejar opiniones teóricas, su contenido es meramente informativo y por tan
 
 # Dilución
 
+# Merge And Acquisitions
+
 # Completitud con el perfil de inversión
 
 # Valoración
